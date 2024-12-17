@@ -1,1 +1,1 @@
-A random password generator with JavaScript, HTML, and CSS.
+Random password generator with JavaScript, HTML, and CSS.
